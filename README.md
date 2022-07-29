@@ -1,5 +1,5 @@
 # Hey there 👋
-I'm a software engineer developing solutions for the cloud environments, including serverless, with a special interest in security.
+I'm a software engineer developing solutions for cloud environments, including serverless, with a special interest in security.
 
 ## Tech I work with
 
